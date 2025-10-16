@@ -7,3 +7,4 @@
 | **Марат Адиев** | [Soln1shko](https://github.com/Soln1shko) |
 | **Никита Нестеров** | [akayooo](https://github.com/akayooo) |
 | **Никита Шушкин** | [nikita89756](https://github.com/nikita89756) |
+| **Кирилл Шанин** | [shaninkiril](https://github.com/shaninkirill) |
